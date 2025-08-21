@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Djardo Isaac</h1>
-<h3 align="center">A passionate Software Developer from Ghana</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djardo-isaac&label=Profile%20views&color=0e75b6&style=flat" alt="djardo-isaac" /> </p>
 
