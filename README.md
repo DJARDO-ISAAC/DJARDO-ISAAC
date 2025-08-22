@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **House Help(Flutter cleaner App)**
 
-- 💬 Ask me about **react, Vue(NuxtJS), Angular**
+- 💬 Ask me about **Angular, Vue(NuxtJS), React.js**
 
 - ⚡ Fun fact **I love 🎶**
 
